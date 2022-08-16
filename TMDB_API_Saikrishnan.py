@@ -378,7 +378,7 @@ if __name__ == "__main__":
 
     graph = Graph()
     graph.add_node(id='2975', name='Laurence Fishburne')
-    tmdb_api_utils = TMDBAPIUtils(api_key='914eacc3a5c6dc77d65fd4eb97fd2d08')
+    tmdb_api_utils = TMDBAPIUtils(api_key='######################') #Add API KEY here
     
     # call functions or place code here to build graph (graph building code not graded)
     n=0
